@@ -164,12 +164,12 @@ body.dark-theme {
   border-radius: 50%;
   overflow: hidden;
   display: flex;
-  align-items: flex-end;
+  align-items: flex;
   justify-content: center;
 }
 
 .profile__perfil img {
-  width: 75px;
+  width: 100px;
 }
 
 .profile__border {
@@ -512,7 +512,7 @@ body.dark-theme {
     height: 120px;
   }
   .profile__perfil img {
-    width: 90px;
+    width: 120px;
   }
   .profile__profession {
     margin-bottom: 1.5rem;
